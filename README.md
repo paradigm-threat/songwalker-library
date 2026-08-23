@@ -103,3 +103,10 @@ node scripts/generate-index.js ../songwalker-library
 Soundfont samples are derived from various SF2 soundfonts. See individual source soundfont licenses for details.
 
 Built-in presets (`_shared/`) use Web Audio API oscillators and are not subject to sample licensing.
+
+---
+
+> *"Perfection is achieved, not when there is nothing more to add,*
+> *but when there is nothing left to take away."*
+>
+> — Antoine de Saint-Exupéry

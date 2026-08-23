@@ -1,0 +1,8 @@
+---
+description: Agent instructions — git, mesh sync, preset index layout
+alwaysApply: true
+---
+
+# Agents
+
+Read [`AGENTS.md`](../../AGENTS.md). **Go-live:** `git push iad1 HEAD:main` → gitlab → poll **`/api/sync/mesh/songwalker-library`**. Keep **`index.json`** trees consistent when adding libraries.
